@@ -1,6 +1,10 @@
 ## Hi!
 My name is Lauren, and I'm a computational data journalist at Morningstar.
 
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauren0solberg&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauren-solberg&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 ### Tech I've worked with
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
