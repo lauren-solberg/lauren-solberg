@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+My name is Lauren, and I'm a computational data journalist at Morningstar.
 
 ### Tech I've worked with
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
