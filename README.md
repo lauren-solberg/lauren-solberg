@@ -1,8 +1,11 @@
 ## Hi!
 ⭐ My name is Lauren, and I'm a computational data journalist at Morningstar. <br>
+
 🎨 For fun, I like to build websites and experiment with new ways to visualize data. <br>
+
 🔭 I'm currently building an interactive dashboard about the musical evolution of Fleetwood Mac. <br>
-🤓 Connect with me on <a href="https://www.linkedin.com/in/lauren-solberg/">LinkedIn</a>. <br>
+
+Feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/lauren-solberg/">LinkedIn</a>! <br>
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauren0solberg&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauren-solberg&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
