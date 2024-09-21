@@ -1,5 +1,5 @@
 ## Hi!
-⭐ My name is Lauren, and I'm a computational data journalist at Morningstar. <br>
+⭐ My name is Lauren, and I'm a data journalist and editorial manager at Morningstar. <br>
 
 🎨 For fun, I like to build websites and experiment with new ways to visualize data. <br>
 
