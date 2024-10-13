@@ -1,9 +1,7 @@
 ## Hi!
 ⭐ My name is Lauren, and I'm a data journalist and editorial manager at Morningstar. <br>
 
-🎨 For fun, I like to build websites and experiment with new ways to visualize data. <br>
-
-🔭 I'm currently building an interactive dashboard about the musical evolution of Fleetwood Mac. <br>
+🎨 For fun, I like to write stories, build websites, and experiment with new ways to visualize data. <br>
 
 Feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/lauren-solberg/">LinkedIn</a>! <br>
 
