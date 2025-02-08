@@ -1,5 +1,5 @@
 ## Hi!
-⭐ My name is Lauren, and I'm a data journalist and editorial manager at Morningstar. <br>
+⭐ My name is Lauren, and I am lead developer for data visualization and automation on Morningstar's editorial team. <br>
 
 🎨 For fun, I like to write stories, build websites, and experiment with new ways to visualize data. <br>
 
