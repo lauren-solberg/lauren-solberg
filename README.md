@@ -1,4 +1,4 @@
-## Hi!
+<!--## Hi!
 ⭐ My name is Lauren, and I am lead developer for data visualization and automation on Morningstar's editorial team. <br>
 
 🎨 For fun, I like to write stories, build websites, and experiment with new ways to visualize data. <br>
@@ -24,7 +24,7 @@ Feel free to reach out or connect with me on <a href="https://www.linkedin.com/i
 <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.atlassian.com/software/confluence" title="Confluence"><img src="https://github.com/get-icon/geticon/raw/master/icons/confluence.svg" alt="Confluence" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-
+-->
 <!--
 **lauren-solberg/lauren-solberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
